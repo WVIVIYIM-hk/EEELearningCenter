@@ -14,4 +14,4 @@ Gurobi Optimizer version 12.0.3 build v12.0.3rc0 (win64 - Windows 11.0 (26100.2)
 
 CPU model: 12th Gen Intel(R) Core(TM) i9-12900H
 
-## “个人学习整理，电力系统相关，菜鸡一枚”
+个人学习整理，电力系统相关，菜鸡一枚
